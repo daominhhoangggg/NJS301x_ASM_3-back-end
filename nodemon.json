@@ -1,0 +1,9 @@
+{
+  "env": {
+    "MONGO_USER": "daominhhoangggg",
+    "MONGO_PASSWORD": "hoangkhoi3",
+    "MONGO_DEFAULT_DATABASE": "ecommerce",
+    "EMAIL_USER": "mikakaka1102",
+    "EMAIL_PASSWORD": "updzlmzckvxyekec"
+  }
+}
